@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warmer Primary Colors (Deep Orange / Terracotta) -->
+    <color name="purple_200">#FFAB91</color>
+    <color name="purple_500">#E64A19</color> <!-- Deep Orange 700 -->
+    <color name="purple_700">#BF360C</color> <!-- Deep Orange 900 -->
+
+    <!-- Warmer Secondary Colors (Amber / Gold) -->
+    <color name="teal_200">#FFD54F</color> <!-- Amber 300 -->
+    <color name="teal_700">#FFA000</color> <!-- Amber 700 -->
+
+    <color name="error">#B00020</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Warmer Neutral Colors -->
+    <color name="gray">#8D6E63</color> <!-- Brownish gray -->
+    <color name="light_gray">#FFF8E1</color> <!-- Warm off-white / Cream -->
+    <color name="dark_gray">#3E2723</color> <!-- Deep brown -->
+</resources>

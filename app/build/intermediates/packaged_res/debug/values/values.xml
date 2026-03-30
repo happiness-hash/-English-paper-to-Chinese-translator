@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#000000</color>
+    <color name="dark_gray">#3E2723</color>
+    <color name="error">#B00020</color>
+    <color name="gray">#8D6E63</color>
+    <color name="light_gray">#FFF8E1</color>
+    <color name="purple_200">#FFAB91</color>
+    <color name="purple_500">#E64A19</color>
+    <color name="purple_700">#BF360C</color>
+    <color name="teal_200">#FFD54F</color>
+    <color name="teal_700">#FFA000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="api_configuration">API配置</string>
+    <string name="api_error">API错误，请检查API Key是否正确</string>
+    <string name="api_key">API Key</string>
+    <string name="app_name">论文翻译助手</string>
+    <string name="copy">复制</string>
+    <string name="deepseek">DeepSeek</string>
+    <string name="error">错误</string>
+    <string name="export">导出</string>
+    <string name="gemini">Gemini</string>
+    <string name="input_paper">输入论文</string>
+    <string name="interpret">解读</string>
+    <string name="loading">加载中...</string>
+    <string name="network_error">网络错误，请检查网络连接</string>
+    <string name="please_enter_api_key">请输入API Key</string>
+    <string name="please_input_paper">请输入论文内容</string>
+    <string name="please_select_api">请选择API</string>
+    <string name="result">结果</string>
+    <string name="save">保存</string>
+    <string name="select_api">选择API</string>
+    <string name="settings">设置</string>
+    <string name="success">成功</string>
+    <string name="translate">翻译</string>
+    <string name="upload_file">上传文件</string>
+    <style name="Theme.PaperTranslator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/purple_500</item>
+    </style>
+</resources>
